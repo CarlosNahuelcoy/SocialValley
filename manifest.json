@@ -1,0 +1,9 @@
+﻿{
+  "Name": "SocialValley",
+  "Author": "Gerik Uylerk",
+  "Version": "1.10.1",
+  "Description": "Connect NPCs to Player2 for AI-powered interactions",
+  "UniqueID": "SocialValley",
+  "EntryDll": "SocialValley.dll",
+  "MinimumApiVersion": "4.0.0"
+}
